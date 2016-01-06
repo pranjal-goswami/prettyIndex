@@ -1,2 +1,3 @@
-1. Hi I added a line here
+1. Hi I added a line here. Changed line 1
 2. I added a line here.
+3. Added line 3
